@@ -17,15 +17,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=hudsonsamuelsantos&show_icons=true&theme=vision-friendly-dark" alt="hudsonsamuelsantos's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsamuelsantos&layout=compact&theme=vision-friendly-dark" alt="hudsonsamuelsantos's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/hudsonsamuelsantos/" target="_blank">
