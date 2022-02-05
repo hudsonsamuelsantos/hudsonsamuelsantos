@@ -2,7 +2,7 @@
 
 - 🔥 Front-End Developer
 
-- 🔭 I’m currently learning JavaScript, HTML5, CSS3, Node.JS
+- 🔭 I’m currently learning JavaScript, HTML5, CSS3
 
 <br><br>
 
