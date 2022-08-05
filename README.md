@@ -1,4 +1,5 @@
-<h2 align="center">Hi! I'm Hudson Santos</h2>
+<h1 align="center">Olá! Eu sou Hudson Santos</h1>
+<p>Sou um Desenvolvedor Front-End que ama tecnologia. Atualmente estou em busca de evoluir constantemente minhas habilidades, e de uma oportunidade de mostrar e desenvolver ao máximo meu potencial no mercado de trabalho.<p/>
 
 <div align="center">
   <a href="https://github.com/hudsonsamuelsantos">
@@ -8,7 +9,6 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
