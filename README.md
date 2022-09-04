@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Hudson Santos</h1>
 <p>Sou um Desenvolvedor Front-End que ama tecnologia. Atualmente estou em busca de evoluir constantemente minhas habilidades, e de uma oportunidade de mostrar e desenvolver ao máximo meu potencial no mercado de trabalho.<p/>
 
-<p>Atualmente focando os estudo em React JS e Javascript ES6 (<a href='https://github.com/hudsonsamuelsantos/curso-react-js' target="_blank">Veja o repositório<a/>)<p/>
+<p>Atualmente focando os estudos em ReactJS e ES6 (<a href='https://github.com/hudsonsamuelsantos/curso-react-js' target="_blank">Veja o repositório<a/>)<p/>
 
 <h2 align="center">Principais tecnologias:</h2>
 
