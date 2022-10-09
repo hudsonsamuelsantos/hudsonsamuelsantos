@@ -16,5 +16,5 @@
 <br />
 
 <a href="https://github.com/hudsonsamuelsantos">
-<img align="left" height="180em" width=40% src="https://github-readme-stats.vercel.app/api?username=hudsonsamuelsantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsamuelsantos&layout=compact&langs_count=7&theme=transparent"/>
+<img align="left" height="180em" width=45% src="https://github-readme-stats.vercel.app/api?username=hudsonsamuelsantos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsamuelsantos&layout=compact&langs_count=7&theme=transparent"/>
