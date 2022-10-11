@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudsonsamuelsantos&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonsamuelsantos" /> </p>
 
-<p align="left">"Sou apaixonado por tecnologia, e por aprender coisas novas. Atualmente estou em busca de evoluir constantemente minhas habilidades, e de uma oportunidade de mostrar e desenvolver ao máximo meu potencial no mercado de trabalho."<p/>
+<p align="left">"Sou um Desenvolvedor que ama tecnologia, e aprender coisas novas. Atualmente estou em busca de evoluir constantemente minhas habilidades, e de uma oportunidade de mostrar e desenvolver ao máximo meu potencial no mercado de trabalho."<p/>
 
 - 👨‍💻 Atualmente focando os estudos nos ecossistemas de Javascript e ReactJS
 
