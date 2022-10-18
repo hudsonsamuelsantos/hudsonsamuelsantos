@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width=35% src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 👨‍💻 Atualmente aprofundando os estudos nos ecossistemas de Javascript e ReactJS
+- 👨‍💻 Atualmente focando os estudos nos ecossistemas de Javascript e ReactJS
 
 - ⚡ Principais habilidades: 
   - React
