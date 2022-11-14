@@ -11,8 +11,9 @@
 - 👨‍💻 Atualmente focando os estudos nos ecossistemas de Javascript e ReactJS
 
 - ⚡ Principais habilidades: 
-  - React
-  - Javascript
+  - React (Context API, Router, Hooks)
+  - Typescript
+  - Javascript (ES6+)
   - HTML Semântico
   - CSS (CSS Responsivo, CSS Modules, Tailwind CSS)
   - Firebase
@@ -21,7 +22,6 @@
   - VSCode
 
 - 🔭 Conhecimentos em:
-  - Typescript
   - NextJs
   - StoryBook
   - Figma
