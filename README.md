@@ -14,8 +14,9 @@
   - React (Context API, Router, Hooks)
   - Typescript
   - Javascript (ES6+)
-  - HTML Semântico
+  - StoryBook
   - CSS (CSS Responsivo, CSS Modules, Tailwind CSS)
+  - HTML Semântico
   - Firebase
   - Git e GitHub
   - Vercel
@@ -23,7 +24,6 @@
 
 - 🔭 Conhecimentos em:
   - NextJs
-  - StoryBook
   - Figma
   - NodeJs
   - Express
