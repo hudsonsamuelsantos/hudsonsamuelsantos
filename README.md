@@ -21,10 +21,10 @@
   - Git e GitHub
   - Vercel
   - VSCode
+  - Figma
 
 - 🔭 Conhecimentos em:
   - NextJs
-  - Figma
   - NodeJs
   - Express
   - Npm
