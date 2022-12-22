@@ -4,40 +4,33 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hudsonsamuelsantos&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonsamuelsantos" /> </p>
 
-<p align="left">"Sou um Desenvolvedor que ama tecnologia, e aprender coisas novas. Atualmente estou em busca de uma oportunidade de mostrar e desenvolver ao máximo meu potencial no mercado de trabalho."<p/>
+<p align="center"><img align="center" alt="Coding" width=35% src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
 
-<img align="right" alt="Coding" width=35% src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<br />
 
-- 👨‍💻 Atualmente focando os estudos nos ecossistemas de Javascript e ReactJS
+Desde bem cedo, sempre tive paixão por tecnologias, sempre tive curiosidade de saber como elas funcionavam, e aprender como eram feitas.
 
-- ⚡ Principais habilidades: 
-  - React (Context API, Router, Hooks)
-  - Typescript
-  - Javascript (ES6+)
-  - StoryBook
-  - CSS (CSS Responsivo, CSS Modules, Tailwind CSS)
-  - HTML Semântico
-  - Firebase
-  - Git e GitHub
-  - Vercel
-  - VSCode
-  - Figma
+Embora tenha passado por áreas e experiências bem distintas na minha trajetória profissional, como por exemplo a área de Vendas, a área Industrial, e por 4 anos na área de Construção Civil, desde 2021 venho me desenvolvendo como programador, e me aprimorando no Desenvolvimento Web, com o objetivo de realizar uma transição para esse área.
 
-- 🔭 Conhecimentos em:
-  - NextJs
-  - NodeJs
-  - Express
-  - Npm
-  - MongoDb (Mongoose)
-  - EJS
-  - SQL
+O Desenvolvimento Web une várias coisas que me chamam muita atenção e que realmente gosto, como o uso da criatividade e da inovação para resolver problemas reais por meio da tecnologia. 🚀
 
-- 🔎 Outros: 
-  - Inglês instrumental básico.
+• Linguagens: Javascript (ES6+), Typescript
 
-- 💬 Fique a vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/hudsonsamuelsantos/)!
+• Front-end: React (Context API, Router, Hooks), CSS3 (Responsivo, CSS Modules, Tailwind CSS), HTML5 Semântico, StoryBook, NextJs.
 
-- 📫 Você também pode me contatar pelo e-mail: **hudsnss@gmail.com**
+• Back-end: NodeJs, Express, MongoDb (Mongoose), GraphQL
+
+• Outros: Npm, Firebase, Git e GitHub, Vercel, Figma, Axios, EJS, SQL
+
+<br />
+
+Sinta-se livre para entrar em contato! 😉
+
+• 💬 Fique a vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/hudsonsamuelsantos/)!
+
+• 📫 Você também pode me contatar pelo e-mail: **hudsnss@gmail.com**
+
+<br />
 <br />
 
 <a href="https://github.com/hudsonsamuelsantos">
