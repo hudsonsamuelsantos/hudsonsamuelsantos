@@ -1,10 +1,6 @@
-<h1 align="center">Olá! 👋 Eu sou Hudson Santos!</h1>
-<h3 align="center">Desenvolvedor Front-End  🚀</h3>
-<br />
+<p align="center"><img align="center" alt="Coding" width=100% src="https://media.licdn.com/dms/image/D4D16AQEwZG9CS21piw/profile-displaybackgroundimage-shrink_350_1400/0/1674408902273?e=1680134400&v=beta&t=jA5hH5EUF-N5e1b56We9nq25dhqDJI18YbLBE66nSKg"/></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hudsonsamuelsantos&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonsamuelsantos" /> </p>
-
-<p align="center"><img align="center" alt="Coding" width=35% src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
 
 <br />
 
