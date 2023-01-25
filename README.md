@@ -4,11 +4,17 @@
 
 <br />
 
+Atualmente focado em realizar uma transição de carreira para a área de desenvolvimento, tenho estudado, ganhado experiência de código, e desenvolvido um portfólio especialmente em Front-end, mas também em Back-end.
+
 Desde bem cedo, sempre tive paixão por tecnologias, sempre tive curiosidade de saber como elas funcionavam, e aprender como eram feitas.
 
 Embora tenha passado por áreas e experiências bem distintas na minha trajetória profissional, como por exemplo a área de Vendas, a área Industrial, e por 4 anos na área de Construção Civil, desde 2021 venho me desenvolvendo como programador, e me aprimorando no Desenvolvimento Web, com o objetivo de realizar uma transição para esse área.
 
 O Desenvolvimento Web une várias coisas que me chamam muita atenção e que realmente gosto, como o uso da criatividade e da inovação para resolver problemas reais por meio da tecnologia. 🚀
+<br />
+<br />
+<br />
+<br />
 
 • Linguagens: Javascript (ES6+), Typescript
 
