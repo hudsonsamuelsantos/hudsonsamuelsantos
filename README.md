@@ -1,10 +1,8 @@
-<p align="center"><img align="center" alt="Coding" width=100% src="https://media.licdn.com/dms/image/D4D16AQEwZG9CS21piw/profile-displaybackgroundimage-shrink_350_1400/0/1674408902273?e=1680134400&v=beta&t=jA5hH5EUF-N5e1b56We9nq25dhqDJI18YbLBE66nSKg"/></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hudsonsamuelsantos&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonsamuelsantos" /> </p>
 
 <br />
 
-Atualmente focado em realizar uma transição de carreira para a área de desenvolvimento, tenho estudado, ganhado experiência de código, e desenvolvido um portfólio especialmente em Front-end, mas também em Back-end.
+Atualmente focado em realizar uma transição de carreira para a área de desenvolvimento, tenho estudado, ganhado experiência de código, e desenvolvido um portfólio Front-End.
 
 Desde bem cedo, sempre tive paixão por tecnologias, sempre tive curiosidade de saber como elas funcionavam, e aprender como eram feitas.
 
@@ -19,8 +17,6 @@ O Desenvolvimento Web une várias coisas que me chamam muita atenção e que rea
 • Linguagens: Javascript (ES6+), Typescript
 
 • Front-end: React (Context API, Router, Hooks), CSS3 (Responsivo, CSS Modules, Tailwind CSS), HTML5 Semântico, StoryBook, NextJs.
-
-• Back-end: NodeJs, Express, MongoDb (Mongoose), GraphQL
 
 • Outros: Npm, Firebase, Git e GitHub, Vercel, Figma, Axios, EJS, SQL
 
