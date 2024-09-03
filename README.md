@@ -3,9 +3,9 @@
 <br />
 Desde bem cedo, sempre tive paixão por tecnologias, sempre tive curiosidade de saber como elas funcionavam, e aprender como eram feitas.
 
+<br />
+
 O Desenvolvimento Web une várias coisas que me chamam muita atenção e que realmente gosto, como o uso da criatividade e da inovação para resolver problemas reais por meio da tecnologia. 🚀
-<br />
-<br />
 <br />
 <br />
 
