@@ -9,7 +9,7 @@ O Desenvolvimento Web une várias coisas que me chamam muita atenção e que rea
 <br />
 <br />
 
-• Linguagens: Javascript (ES6+), Typescript, Python
+• Linguagens: Javascript, Typescript, Python, C#
 
 • Front-end: React (Context API, Router, Hooks), CSS3 (Responsivo, CSS Modules, Tailwind CSS), HTML5 Semântico, StoryBook, NextJs
 
